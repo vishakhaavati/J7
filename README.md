@@ -1,6 +1,5 @@
 # J7
-Automatic cutting machine 
-
+Automatic cutting machine (usable for municipal corporation)
 *. Objectives 
 1. Converting the wet waste into compost.
 2. The speed of the machine should be comparatively more than a ordinary one. 
